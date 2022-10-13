@@ -56,7 +56,7 @@
               <manifest>
                 <addClasspath>true</addClasspath>
                  <classpathPrefix>lib/</classpathPrefix>
-                  <mainClass>java.Projects.App</mainClass>
+		 <mainClass>Projects.src.main.java.Projects.App</mainClass>
               </manifest>
             </archive>
          </configuration>
